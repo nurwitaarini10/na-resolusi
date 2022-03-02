@@ -5,4 +5,5 @@ NA RESOLUSI
   * PPT Menarik
     ^ Rangkuman Jurnal
 - Menciptakan aplikasi yang berguna untuk masyarakat
+  * Aplikasi konsultasi bersama dokter secara online
 - Menjalankan website dengan baik
