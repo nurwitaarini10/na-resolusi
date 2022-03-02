@@ -1,0 +1,7 @@
+Rencana Penguasaan Bahasa Pemograman
+- Java
+- JavaScript
+  *ES6
+  *Framework JavaScript
+- PHP
+- C++
